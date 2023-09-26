@@ -1,5 +1,5 @@
 #include <iostream>
-#include "easy2.h"
+#include "easy.h"
 
 double itc_pow(int num, int step)
 {
