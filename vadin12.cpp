@@ -1,5 +1,5 @@
 #include <iostream>
-#include "easy2.h"
+#include "easy.h"
 
 int itc_sqrt(int a)
 {
