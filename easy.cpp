@@ -1,5 +1,5 @@
 #include <iostream>
-#include "easy2.h"
+#include "easy.h"
 
 bool itc_iseven(int a)
 {
